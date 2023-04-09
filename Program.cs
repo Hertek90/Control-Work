@@ -28,3 +28,4 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+PrintArray(array2);
